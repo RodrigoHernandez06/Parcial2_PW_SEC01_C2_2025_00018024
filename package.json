@@ -1,0 +1,23 @@
+{
+  "name": "parcial2_pw_sec01_c2_2025_00018024",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RodrigoHernandez06/Parcial2_PW_SEC01_C2_2025_00018024.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RodrigoHernandez06/Parcial2_PW_SEC01_C2_2025_00018024/issues"
+  },
+  "homepage": "https://github.com/RodrigoHernandez06/Parcial2_PW_SEC01_C2_2025_00018024#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
