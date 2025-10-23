@@ -13,8 +13,9 @@ app.get("/", (req, res) => {
         message: "Servidor Express activo",
         routes: {
             cuentas: "/cuentas",
-            cuentaPorId: "/cuenta/:id",
+            cuentaPorId: "/cuenta/[id]",
             cuentasBalance: "/cuentasBalance",
+            busquedaPersonalizada: "/cuentas?queryParam=[valor]",
         },
     });
 });
