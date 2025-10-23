@@ -1,4 +1,4 @@
-const data = [
+export const data = [
   {
     "_id": "68f863f0196d296c9e219f27",
     "isActive": true,
@@ -56,5 +56,3 @@ const data = [
     "gender": "female"
   }
 ]
-
-module.exports = data;
